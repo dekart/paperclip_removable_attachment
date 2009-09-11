@@ -6,7 +6,7 @@ Allow easy removal of Paperclip attachments using checkbox in your forms.
 Requirements
 ------------
 
-This plugin depends on Thoughtbot's Paperclip gem/plugin (http://github.com/thoughtbot/paperclip)
+This plugin depends on "Thoughtbot's Paperclip gem/plugin":http://github.com/thoughtbot/paperclip
 
 Usage
 -----
@@ -51,7 +51,7 @@ You can also use this flag from your code:
 Testing
 -------
 
-No tests yet :( You can fork this plugin at GitHub (http://github.com/dekart/paperclip_removable_attachment)
+No tests yet :( You can "fork this plugin at GitHub":http://github.com/dekart/paperclip_removable_attachment
 and add your own tests. I'll be happy to accept patches!
 
 Installing the plugin
@@ -62,4 +62,4 @@ Installing the plugin
 Credits
 -------
 
-Written by Alex Dmitriev (http://railorz.ru)
+Written by "Alex Dmitriev":http://railorz.ru
